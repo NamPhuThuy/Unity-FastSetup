@@ -1,0 +1,5 @@
+# List of submodules found in the project
+# Right-click this file and select Assets -> FastSetup -> Un-submodule from file to convert them.
+
+Assets/_Project/Module EditorTools/UP-FastSetup -> Assets/_Project/Module EditorTools/UP_FastSetup
+
